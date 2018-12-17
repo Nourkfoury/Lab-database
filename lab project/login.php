@@ -17,6 +17,6 @@
 	}else{
 		$_SESSION['logged_in'] = true;
 		$_SESSION['name'] = $name;
-		header('Location:home.php');
+		header('Location:home2.php');
 	}
 ?>

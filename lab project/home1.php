@@ -61,7 +61,7 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav mx-auto">
 		  		 <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="home1.php">Enployees</a>
+              <a class="nav-link text-uppercase text-expanded" href="home2.php">Enployees</a>
             </li>
 		  
             <li class="nav-item px-lg-4">
