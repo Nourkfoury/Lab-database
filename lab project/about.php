@@ -69,7 +69,7 @@
                   <span class="section-heading-lower">About Our Company</span>
                 </h2>
                 <p>Founded in 1995 by the Kfoury sisters, our establishment has been serving the best Skin treatements, hair styles and makeup master pieces. We are dedicated to travelling the world, finding the newest looks, and bringing back to you here in our company.</p>
-                <p class="mb-0">We guarantee that you will fall in <em>lust</em> with the feeling of relaxation you get from beeing inside our company. Join us for your daily routine, an outing with friends, or simply just to enjoy some alone time.</p>
+                <p class="mb-0">We guarantee that you will fall in <em>love</em> with the feeling of relaxation you get from beeing inside our company. Join us for your daily routine, an outing with friends, or simply just to enjoy some alone time.</p>
                 <p class="mb-0">
                 <small>
                   <em>Call Anytime</em>
