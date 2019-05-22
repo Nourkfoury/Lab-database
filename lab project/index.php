@@ -66,7 +66,7 @@
               <span class="section-heading-upper">Fresh again</span>
               <span class="section-heading-lower">Worth trying</span>
             </h2>
-            <p class="mb-3">onr day will bring back your youth. it will help you relax to start your life again happier and more beautiful 
+            <p class="mb-3">one day will bring back your youth. it will help you relax to start your life again happier and more beautiful 
             </p>
             <div class="intro-button mx-auto">
               <a class="btn btn-primary btn-xl" href="#">Visit Us Today!</a>
